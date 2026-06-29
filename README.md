@@ -24,3 +24,16 @@ Setup any Payment Gateway
 Popups, Optin Form, Complex Forms
 Site Transfer to another Domain or hosting
 ```
+
+## Backend Solutions:
+
+| Platform       | Database                         | Authentication | Storage | Serverless Functions | Best For                        |
+| -------------- | -------------------------------- | -------------- | ------- | -------------------- | ------------------------------- |
+| Supabase       | PostgreSQL                       | ✅              | ✅       | ✅                    | Full-stack web apps             |
+| Firebase       | Firestore (NoSQL)                | ✅              | ✅       | ✅                    | Mobile apps, Google ecosystem   |
+| Appwrite       | PostgreSQL/MySQL/MariaDB support | ✅              | ✅       | ✅                    | Self-hosted applications        |
+| PocketBase     | SQLite                           | ✅              | ✅       | Limited              | Small apps and prototypes       |
+| AWS Amplify    | DynamoDB or other AWS services   | ✅              | ✅       | ✅                    | AWS-centric enterprise projects |
+| Convex         | Built-in database                | ✅              | ✅       | ✅                    | Realtime collaborative apps     |
+| Parse Platform | MongoDB/PostgreSQL               | ✅              | ✅       | Cloud Code           | Open-source backend             |
+| Backendless    | Proprietary                      | ✅              | ✅       | ✅                    | Low-code backend                |
