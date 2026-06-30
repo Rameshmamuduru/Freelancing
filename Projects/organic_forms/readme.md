@@ -1,7 +1,3 @@
-Perfect. I'll act as a real client, not as an interviewer. I'll provide a project just like a client would send to a freelancer after an initial discussion. I'll intentionally leave a few things unclear because that's how real clients usually communicate—you'll need to ask questions, propose solutions, estimate costs, and manage the project.
-
----
-
 # Client: GreenLeaf Organic Farms
 
 ## Project Requirement Document (Version 1.0)
